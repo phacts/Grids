@@ -41,5 +41,11 @@
         "source": "https://github.com/phacts/Grids",
         "issues": "https://github.com/phacts/Grids/issues"
     },
+    "extra": {
+        "component": "package",
+        "branch-alias": {
+            "dev-master": "master"
+        }
+    },
     "minimum-stability": "dev"
 }
