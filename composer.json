@@ -1,5 +1,5 @@
 {
-    "name": "nayjest/grids",
+    "name": "phacts/grids",
     "description": "Grids for Laravel 4 & Laravel 5 frameworks",
     "keywords": [
         "grid",
@@ -12,7 +12,7 @@
         "laravel-5",
         "laravel5"
     ],
-    "homepage": "https://github.com/Nayjest/Grids",
+    "homepage": "https://github.com/phacts/Grids",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -38,8 +38,8 @@
     },
     "support": {
         "email": "mail@vitaliy.in",
-        "source": "https://github.com/Nayjest/Grids",
-        "issues": "https://github.com/Nayjest/Grids/issues"
+        "source": "https://github.com/phacts/Grids",
+        "issues": "https://github.com/phacts/Grids/issues"
     },
     "minimum-stability": "dev"
 }
